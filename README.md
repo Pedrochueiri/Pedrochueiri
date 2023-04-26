@@ -1,4 +1,4 @@
-### <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&pause=1000&color=F7960C&background=FFFFFF00&width=435&lines=Hello%2C+I+am+PedroChueiri!+Welcome+to+my+profile)](https://git.io/typing-svg)</h1>
+### <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&pause=1000&color=D404F7&background=FFFFFF00&width=435&lines=Hello%2C+I+am+PedroChueiri!+Welcome+to+my+profile)](https://git.io/typing-svg)</h1>
 
 <!-- Informações -->
 - 📚 Estudo Análise e Densenvolvimento de Sistemas na FIAP.
