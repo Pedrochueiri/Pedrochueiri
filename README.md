@@ -1,4 +1,4 @@
-### <h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F79A0E&width=900&height=60&lines=Ol%C3%A1%2C+Sou+o+Lu%C3%ADs+Felipe!+Bem+Vindo+ao+meu+Perfil!)](https://git.io/typing-svg)</h1>
+### <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace+SC&pause=1000&color=F7960C&background=FFFFFF00&width=435&lines=Hello%2C+I+am+PedroChueiri!+Welcome+to+my+profile)](https://git.io/typing-svg)</h1>
 
 <!-- Informações -->
 - 📚 Estudo Análise e Densenvolvimento de Sistemas na FIAP.
@@ -33,6 +33,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-![Snake animation](https://github.com/Pedrochueiri/Pedrochueiri/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+  
+  
+
   
 </div>
